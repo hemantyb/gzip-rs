@@ -1,0 +1,5 @@
+Archieve project that compress and decompress your gzip file.
+
+Note: currently only gzip is supported, I will add tar and zip compression and decompression later.
+
+Build project using 'cargo run' and you will see the usage example.
