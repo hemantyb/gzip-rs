@@ -1,7 +1,13 @@
-Archive project that compress and decompress your gzip file.
+# Archive Project
 
-Note: currently only gzip is supported, I will add tar and zip compression and decompression later.
+A Rust project designed to compress and decompress your gzip files.
 
-Build project using 'cargo run' and you will see the usage example.
+**Note:** Currently, only gzip is supported. Support for tar and zip compression and decompression will be added later.
 
-archive-rs is completly for educational purpose, I do not have rights of the project.
+## Build Instructions
+
+To build the project, use the following command:
+
+```sh
+cargo run
+
